@@ -56,7 +56,7 @@ export function About() {
         <div className="mt-16 bg-white p-8 rounded-lg shadow-sm">
           <h3 className="text-gray-900 mb-4">My Journey</h3>
           <p className="text-gray-600 mb-4">
-            I'm a second year Computer Science student at DCU. 
+            I'm a third year Computer Science student at DCU. 
             I started coding seriously during my studies and have been building projects ever since, 
             focusing on full-stack web development with Python and Flask on the backend and React on the frontend.
           </p>
